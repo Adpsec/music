@@ -86,7 +86,7 @@ export default class MusList extends Component {
                     >
                       {Datos_List.title}<br></br>
                       {Datos_List.description}
-                      <img src="{Datos_List.url}"></img>
+                      <img src="{Datos_List.url}" alt="Url of datos"></img>
                     </button>
                   </div>
                 </div>
