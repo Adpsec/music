@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import firebase from "firebase/compat/app";
 import "firebase/firestore";
 import TutorialDataService from "../../servicios/dinosaurio.service";
-import AddMus from "../add/add-mus.component";
+//import AddMus from "../add/add-mus.component";
 
 function ReactionButton({ reactionType, onClick, count }) {
   return (
